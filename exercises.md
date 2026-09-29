@@ -17,7 +17,6 @@ khi khởi động nếu thiếu biến môi trường. Hãy mô tả một tìn
 việc "chết sớm" này cứu bạn, so với việc để mặc định `"changeme"`.
 
 > *Câu trả lời của bạn*
-ramram
 
 ---
 
